@@ -1,0 +1,9 @@
+{
+  "Table": {
+    "id": "ID",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "location": "Location",
+    "province": "Province"
+  }
+}
